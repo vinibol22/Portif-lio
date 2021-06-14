@@ -89,7 +89,7 @@ sr.reveal('.contact__button', {delay: 600})
 
 
 
-
+/*
 const card_hover=['card1','card2','card3','card4','card5','card6','card7']
 card_hover[0] = document.getElementById('hover-1');
 card_hover[1] = document.getElementById('hover-2');
